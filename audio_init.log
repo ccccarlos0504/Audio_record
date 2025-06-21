@@ -1,0 +1,110 @@
+正在初始化PyAudio...
+找到 25 个音频设备
+设备 0: Microsoft 声音映射器 - Input
+  输入通道: 2
+  输出通道: 0
+  默认采样率: 44100.0
+设备 1: Microphone (High Definition Aud
+  输入通道: 2
+  输出通道: 0
+  默认采样率: 44100.0
+设备 2: Microsoft 声音映射器 - Output
+  输入通道: 0
+  输出通道: 2
+  默认采样率: 44100.0
+设备 3: Headphones (High Definition Aud
+  输入通道: 0
+  输出通道: 2
+  默认采样率: 44100.0
+设备 4: AG322F1WG4 (NVIDIA High Definit
+  输入通道: 0
+  输出通道: 2
+  默认采样率: 44100.0
+设备 5: 主声音捕获驱动程序
+  输入通道: 2
+  输出通道: 0
+  默认采样率: 44100.0
+设备 6: Microphone (High Definition Audio Device)
+  输入通道: 2
+  输出通道: 0
+  默认采样率: 44100.0
+设备 7: 主声音驱动程序
+  输入通道: 0
+  输出通道: 2
+  默认采样率: 44100.0
+设备 8: Headphones (High Definition Audio Device)
+  输入通道: 0
+  输出通道: 2
+  默认采样率: 44100.0
+设备 9: AG322F1WG4 (NVIDIA High Definition Audio)
+  输入通道: 0
+  输出通道: 2
+  默认采样率: 44100.0
+设备 10: AG322F1WG4 (NVIDIA High Definition Audio)
+  输入通道: 0
+  输出通道: 2
+  默认采样率: 48000.0
+设备 11: Headphones (High Definition Audio Device)
+  输入通道: 0
+  输出通道: 2
+  默认采样率: 48000.0
+设备 12: Microphone (High Definition Audio Device)
+  输入通道: 2
+  输出通道: 0
+  默认采样率: 44100.0
+设备 13: Output (NVIDIA High Definition Audio)
+  输入通道: 0
+  输出通道: 2
+  默认采样率: 48000.0
+设备 14: 麦克风 (HD Audio Microphone)
+  输入通道: 2
+  输出通道: 0
+  默认采样率: 44100.0
+设备 15: Headphones (HD Audio Headphone)
+  输入通道: 0
+  输出通道: 2
+  默认采样率: 44100.0
+设备 16: 鑰虫満 ()
+  输入通道: 0
+  输出通道: 2
+  默认采样率: 48000.0
+设备 17: 扬声器 ()
+  输入通道: 0
+  输出通道: 2
+  默认采样率: 44100.0
+设备 18: 头戴式耳机 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Bose Revolve+ SoundLink))
+  输入通道: 0
+  输出通道: 1
+  默认采样率: 8000.0
+设备 19: 耳机式麦克风 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(Bose Revolve+ SoundLink))
+  输入通道: 1
+  输出通道: 0
+  默认采样率: 8000.0
+设备 20: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(AirPods Pro Carlos))
+  输入通道: 0
+  输出通道: 1
+  默认采样率: 8000.0
+设备 21: 鑰虫満 (@System32\drivers\bthhfenum.sys,#2;%1 Hands-Free%0
+;(AirPods Pro Carlos))
+  输入通道: 1
+  输出通道: 0
+  默认采样率: 8000.0
+设备 22: Input ()
+  输入通道: 2
+  输出通道: 0
+  默认采样率: 44100.0
+设备 23: Output (@System32\drivers\bthhfenum.sys,#4;%1 Hands-Free HF Audio%0
+;(NPkG8XN0e6mrHRCB92/kN3GbU))
+  输入通道: 0
+  输出通道: 1
+  默认采样率: 8000.0
+设备 24: Input (@System32\drivers\bthhfenum.sys,#4;%1 Hands-Free HF Audio%0
+;(NPkG8XN0e6mrHRCB92/kN3GbU))
+  输入通道: 1
+  输出通道: 0
+  默认采样率: 8000.0
+PyAudio初始化成功
+可用输入设备: [0, 1, 5, 6, 12, 14, 19, 21, 22, 24]

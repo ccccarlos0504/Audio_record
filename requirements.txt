@@ -1,0 +1,5 @@
+pyside6>=6.4.0
+pyaudio>=0.2.11
+matplotlib>=3.5.1
+pydub>=0.25.1
+SpeechRecognition>=3.8.1

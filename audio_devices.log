@@ -1,0 +1,31 @@
+可用音频设备列表:
+设备 0: Microsoft 声音映射器 - Input
+  输入通道: 2
+  输出通道: 0
+  默认采样率: 44100.0
+  是否默认输入: None
+
+设备 1: Microphone (High Definition Aud
+  输入通道: 2
+  输出通道: 0
+  默认采样率: 44100.0
+  是否默认输入: None
+
+设备 2: Microsoft 声音映射器 - Output
+  输入通道: 0
+  输出通道: 2
+  默认采样率: 44100.0
+  是否默认输入: None
+
+设备 3: AG322F1WG4 (NVIDIA High Definit
+  输入通道: 0
+  输出通道: 2
+  默认采样率: 44100.0
+  是否默认输入: None
+
+设备 4: 扬声器 (High Definition Audio Devi
+  输入通道: 0
+  输出通道: 2
+  默认采样率: 44100.0
+  是否默认输入: None
+
