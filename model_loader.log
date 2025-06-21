@@ -1,0 +1,40 @@
+2025-06-21 14:57:30,578 - whisper_manager - INFO - 找到本地模型: ['medium-q8_0', 'small-q8_0']
+2025-06-21 14:57:30,578 - model_loader - INFO - 找到可用的模型: ['medium-q8_0', 'small-q8_0']
+2025-06-21 14:57:30,704 - voice_app - INFO - 正在检查音频设备...
+2025-06-21 14:57:30,705 - voice_app - INFO - 设备 0: Microsoft 声音映射器 - Input
+2025-06-21 14:57:30,706 - voice_app - INFO - 设备 1: Microphone (High Definition Aud
+2025-06-21 14:57:30,707 - voice_app - INFO - 设备 2: Microsoft 声音映射器 - Output
+2025-06-21 14:57:30,707 - voice_app - INFO - 设备 3: AG322F1WG4 (NVIDIA High Definit
+2025-06-21 14:57:30,708 - voice_app - INFO - 设备 4: 扬声器 (High Definition Audio Devi
+2025-06-21 14:57:30,708 - voice_app - INFO - 初始化模型列表
+2025-06-21 14:57:30,726 - voice_app - INFO - 刷新模型列表
+2025-06-21 14:57:30,727 - whisper_manager - INFO - 找到本地模型: ['medium-q8_0', 'small-q8_0']
+2025-06-21 14:57:30,727 - voice_app - INFO - 刷新后发现的模型: ['medium-q8_0', 'small-q8_0']
+2025-06-21 14:57:30,728 - voice_app - INFO - 切换到可用的模型: small-q8_0
+2025-06-21 14:57:39,895 - voice_app - INFO - 开始录音...
+2025-06-21 14:57:39,895 - voice_app - INFO - 初始化音频流...
+2025-06-21 14:57:39,896 - voice_app - INFO - 选择设备 0 作为输入设备
+2025-06-21 14:57:39,967 - voice_app - INFO - 音频流已打开
+2025-06-21 14:57:47,468 - voice_app - INFO - 停止录音...
+2025-06-21 14:57:47,480 - voice_app - INFO - 关闭音频流...
+2025-06-21 14:57:47,497 - voice_app - INFO - 音频流已关闭
+2025-06-21 14:57:47,497 - voice_app - INFO - 保存录音为WAV文件: temp_recording.wav
+2025-06-21 14:57:47,499 - voice_app - INFO - 转换录音为MP3文件: recording.mp3
+2025-06-21 14:57:47,667 - voice_app - INFO - 录音保存和转换完成
+2025-06-21 14:57:47,668 - voice_app - INFO - 使用模型 small-q8_0 转写音频
+2025-06-21 14:57:47,668 - voice_app - INFO - 转换WAV文件采样率为16000 Hz: whisper_input.wav
+2025-06-21 14:57:47,673 - voice_app - INFO - 已优化音频: whisper_input.wav
+2025-06-21 14:57:47,673 - voice_app - INFO - 使用优化后的音频进行转写
+2025-06-21 14:57:47,673 - whisper_manager - INFO - 初始化Whisper模型: small-q8_0
+2025-06-21 14:57:47,674 - whisper_manager - INFO - 在自定义目录找到模型: F:\02 Pycharm\Audio_record\models\ggml-small-q8_0.bin
+2025-06-21 14:57:47,674 - whisper_manager - INFO - 使用模型文件: F:\02 Pycharm\Audio_record\models\ggml-small-q8_0.bin
+2025-06-21 14:57:47,674 - pywhispercpp.model - INFO - Initializing the model ...
+2025-06-21 14:57:48,014 - whisper_manager - INFO - 开始转写音频: whisper_input.wav
+2025-06-21 14:57:48,014 - whisper_manager - INFO - 使用绝对路径进行转写: F:\02 Pycharm\Audio_record\whisper_input.wav
+2025-06-21 14:57:48,015 - pywhispercpp.model - INFO - Transcribing ...
+2025-06-21 14:57:51,877 - pywhispercpp.model - INFO - Inference time: 3.861 s
+2025-06-21 14:57:51,877 - whisper_manager - INFO - 音频转写完成
+2025-06-21 14:57:51,914 - voice_app - INFO - 转写结果: 现在再试一下这个medium模型是不是可以用 现在用的是small模型
+2025-06-21 14:57:51,915 - voice_app - INFO - 已删除临时文件: whisper_input.wav
+2025-06-21 14:57:56,842 - voice_app - INFO - 已删除文件: temp_recording.wav
+2025-06-21 14:57:56,842 - voice_app - INFO - 已删除文件: recording.mp3

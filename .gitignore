@@ -1,0 +1,6 @@
+# 排除整个模型文件夹
+models/
+__pycache__/
+.venv/
+build/
+dist/

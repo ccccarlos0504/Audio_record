@@ -1,0 +1,11 @@
+错误: 'AudioRecorderApp' object has no attribute 'record_button'
+Traceback (most recent call last):
+  File "F:\02 Pycharm\Audio_record\main.py", line 19, in <module>
+    window = AudioRecorderApp()
+             ^^^^^^^^^^^^^^^^^^
+  File "F:\02 Pycharm\Audio_record\audio_recorder_whisper.py", line 119, in __init__
+    self.init_ui()
+  File "F:\02 Pycharm\Audio_record\audio_recorder_whisper.py", line 221, in init_ui
+    record_layout.addWidget(self.record_button)
+                            ^^^^^^^^^^^^^^^^^^
+AttributeError: 'AudioRecorderApp' object has no attribute 'record_button'
